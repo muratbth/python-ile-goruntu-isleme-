@@ -1,0 +1,6 @@
+**mor_gül python dosyasında saturation ve value değerleri 50 de kalıp 
+Hue değerini 10 yapınca mor rengini veriyor.
+**hsv_trackbar python dosyasında en uygun hsv değerlerini bulmak için kullanıyoruz.
+H1:206 H2:359 S1:40 S2:255 V1:0 V2:255
+**hsv_save_img python dosyasında elde ettiğimiz hsv değerlerini kullanarak en uygun
+kesme işlemini yapıyoruz.
